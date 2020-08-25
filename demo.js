@@ -6,3 +6,6 @@ console.log('我是在wp分支下添加的文件');
 console.log('我是deom下添加的内容');
 
 console.log('demo1分支下的内容');
+
+
+console.log('demo2分支下的内容');
