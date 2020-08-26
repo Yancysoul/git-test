@@ -1,1 +1,3 @@
-console.log('我是master提交的内容');
+function demo1() {
+  console.log('demo1')
+}
